@@ -1,4 +1,3 @@
-1-
 SELECT title, description FROM film;
 
 SELECT * FROM film 
